@@ -2,6 +2,10 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+.bg-color{
+  background-color: #231f20;
+}
+
 /* Hero Section */
 
 #Hero-Section {
